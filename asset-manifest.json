@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reduccion-de-multas/static/css/main.65634947.css",
+    "main.js": "/reduccion-de-multas/static/js/main.4955b353.js",
+    "index.html": "/reduccion-de-multas/index.html",
+    "main.65634947.css.map": "/reduccion-de-multas/static/css/main.65634947.css.map",
+    "main.4955b353.js.map": "/reduccion-de-multas/static/js/main.4955b353.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65634947.css",
+    "static/js/main.4955b353.js"
+  ]
+}
