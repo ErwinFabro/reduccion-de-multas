@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/reduccion-de-multas/static/css/main.a1ad7f8b.css",
-    "main.js": "/reduccion-de-multas/static/js/main.7c935cc2.js",
+    "main.css": "/reduccion-de-multas/static/css/main.3ed8cd95.css",
+    "main.js": "/reduccion-de-multas/static/js/main.976515fe.js",
     "static/media/multas.jpg": "/reduccion-de-multas/static/media/multas.834a4c3791c3bb766b15.jpg",
+    "static/media/whatsapp.svg": "/reduccion-de-multas/static/media/whatsapp.4b213c1d43bb3ff5e7e36d7552ef9eb6.svg",
     "index.html": "/reduccion-de-multas/index.html",
-    "main.a1ad7f8b.css.map": "/reduccion-de-multas/static/css/main.a1ad7f8b.css.map",
-    "main.7c935cc2.js.map": "/reduccion-de-multas/static/js/main.7c935cc2.js.map"
+    "main.3ed8cd95.css.map": "/reduccion-de-multas/static/css/main.3ed8cd95.css.map",
+    "main.976515fe.js.map": "/reduccion-de-multas/static/js/main.976515fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1ad7f8b.css",
-    "static/js/main.7c935cc2.js"
+    "static/css/main.3ed8cd95.css",
+    "static/js/main.976515fe.js"
   ]
 }
